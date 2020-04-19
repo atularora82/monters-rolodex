@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monters-rolodex/static/css/main.662410a5.chunk.css",
+    "main.js": "/monters-rolodex/static/js/main.3933d7d8.chunk.js",
+    "main.js.map": "/monters-rolodex/static/js/main.3933d7d8.chunk.js.map",
+    "runtime-main.js": "/monters-rolodex/static/js/runtime-main.e042b115.js",
+    "runtime-main.js.map": "/monters-rolodex/static/js/runtime-main.e042b115.js.map",
+    "static/js/2.7aaef059.chunk.js": "/monters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/monters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/monters-rolodex/index.html",
+    "precache-manifest.26b681a7a9ba4e813627d84b72822f7b.js": "/monters-rolodex/precache-manifest.26b681a7a9ba4e813627d84b72822f7b.js",
+    "service-worker.js": "/monters-rolodex/service-worker.js",
+    "static/css/main.662410a5.chunk.css.map": "/monters-rolodex/static/css/main.662410a5.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monters-rolodex/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e042b115.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.662410a5.chunk.css",
+    "static/js/main.3933d7d8.chunk.js"
+  ]
+}
